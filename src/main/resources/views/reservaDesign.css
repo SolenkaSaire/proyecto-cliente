@@ -8,7 +8,7 @@
 }
 
 .header-1 {
-    -fx-border-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to bottom right, #890F32FF, #286155);
     -fx-border-width: 0 0 0 2px;
     -fx-padding: 0 0 0 5px;
 }
@@ -29,7 +29,7 @@
 }
 
 .bg-color-1 {
-    -fx-background-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-background-color: linear-gradient(to bottom right, #890F32FF, #286155);
 }
 
 .btn-1 {
@@ -75,16 +75,16 @@
 .table-view {
     -fx-padding: 0;
     -fx-border-radius: 8px;
-    -fx-border-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to bottom right, #890F32FF, #286155);
 }
 
 .table-row-cell {
-    -fx-border-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to bottom right, #890F32FF, #286155);
     -fx-border-width: 0.3px;
 }
 
 .table-view .column-header-background {
-    -fx-background-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-background-color: linear-gradient(to bottom right, #890F32FF, #286155);
     -fx-background-insets: 0, 0, 1, 0;
     -fx-background-radius: 8px 8px 0 0;
 }
@@ -110,11 +110,11 @@
 .table2-view- {
     -fx-padding: 0;
     -fx-border-radius: 8px;
-    -fx-border-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to bottom right, #890F32FF, #286155);
 }
 
 .table2-row-cell {
-    -fx-border-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to bottom right, #890F32FF, #286155);
     -fx-border-width: 0.3px;
 }
 
@@ -142,7 +142,7 @@
 .combo-box {
     -fx-background-color: #fff;
     -fx-background-radius: 5px;
-    -fx-border-color: linear-gradient(to bottom right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to bottom right, #890F32FF, #286155);
     -fx-border-width: 0.8px;
     -fx-border-radius: 5px;
     -fx-font-size: 13px;
@@ -155,7 +155,7 @@
 }
 
 .add-btn {
-    -fx-background-color: linear-gradient(to bottom right, #0f6789, #388675);
+    -fx-background-color: linear-gradient(to bottom right, #890F32FF, #388675);
     -fx-background-radius: 5px;
     -fx-cursor: hand;
     -fx-text-fill: #fff;
@@ -169,7 +169,7 @@
 }
 
 .update-btn {
-    -fx-background-color: linear-gradient(to bottom right, #0f6789, #388675);
+    -fx-background-color: linear-gradient(to bottom right, #890F32FF, #388675);
     -fx-background-radius: 5px;
     -fx-cursor: hand;
     -fx-text-fill: #fff;
@@ -183,7 +183,7 @@
 }
 
 .delete-btn {
-    -fx-background-color: linear-gradient(to bottom right, #0f6789, #388675);
+    -fx-background-color: linear-gradient(to bottom right, #890F32FF, #388675);
     -fx-background-radius: 5px;
     -fx-cursor: hand;
     -fx-text-fill: #fff;
@@ -197,7 +197,7 @@
 }
 
 .search-btn {
-    -fx-background-color: linear-gradient(to bottom right, #0f6789, #388675);
+    -fx-background-color: linear-gradient(to bottom right, #890F32FF, #388675);
     -fx-background-radius: 5px;
     -fx-cursor: hand;
     -fx-text-fill: #fff;
@@ -213,7 +213,7 @@
 .textfield {
     -fx-background-color: #fff;
     -fx-background-radius: 8px;
-    -fx-border-color: linear-gradient(to right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to right, #890F32FF, #286155);
     -fx-border-radius: 5px;
     -fx-border-width: 0.8px;
     -fx-font-size: 13px;
@@ -227,7 +227,7 @@
 .date-picker {
     -fx-background-color: #fff;
     -fx-background-radius: 5px;
-    -fx-border-color: linear-gradient(to right, #0f6789, #286155);
+    -fx-border-color: linear-gradient(to right, #890F32FF, #286155);
     -fx-border-width: 0.8px;
     -fx-border-radius: 5px;
     -fx-font-size: 13px;

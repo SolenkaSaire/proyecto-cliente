@@ -1,6 +1,6 @@
 
 .gradient{
-    -fx-background-color: linear-gradient(to bottom right,#0f6789, #286155);
+    -fx-background-color: linear-gradient(to bottom right,#890F32FF, #286155);
 }
 
 .white-form{
@@ -8,14 +8,14 @@
 }
 
 .head-label{
-    -fx-border-color: #0f6789;
+    -fx-border-color: #890F32FF;
     -fx-border-width: 0 0 0 3px;
     -fx-padding: 0 0 0 5px;
 
 }
 
 .login-btn{
-    -fx-background-color: linear-gradient(to bottom right,#0f6789, #388675);
+    -fx-background-color: linear-gradient(to bottom right,#890F32FF, #388675);
     -fx-background-radius: 5px;
     -fx-cursor: hand;
     -fx-text-fill: #fff;
@@ -29,7 +29,7 @@
 
 .textField{
     -fx-background-color: transparent;
-    -fx-border-color: linear-gradient(to bottom right,#0f6789, #286155);
+    -fx-border-color: linear-gradient(to bottom right,#890F32FF, #286155);
     -fx-border-width: .5px;
 }
 
